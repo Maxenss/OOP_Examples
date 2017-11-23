@@ -12,5 +12,7 @@ public class Main {
         ClassRoom classRoom =
                 new ClassRoom(badPupil, goodPupil, goodPupil12, excelentPupil);
         classRoom.showPupilsInfo();
+
+        System.out.println();
     }
 }
